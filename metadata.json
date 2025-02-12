@@ -1,0 +1,36 @@
+{
+    "autores":[
+        "Augusto Miguel Barth",
+        "Fábio Bays de Araujo",
+        "Rian Augusto Heck",
+        "Mateus José Zardo"
+    ],
+    "descricao":"Base de dados de imagens de alguns componentes eletrônicos.",
+    "resolucao_imagens":{
+        "largura":"1000",
+        "altura":"1200"
+    },
+    "num_classes":"5",
+    "classes":[
+        {
+            "id":"0",
+            "nome":"capacitor"
+        },
+        {
+            "id":"1",
+            "nome":"led"
+        },
+        {
+            "id":"2",
+            "nome":"resistor"
+        },
+        {
+            "id":"3",
+            "nome":"seven_segments"
+        },
+        {
+            "id":"4",
+            "nome":"transistor"
+        }
+    ]
+}
