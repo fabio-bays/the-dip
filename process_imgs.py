@@ -56,12 +56,12 @@ def process_images():
         if not os.path.exists(classe_folder):
             print(f'{classe_folder} não existe')
             break
-        print(f'Processando {classe} ({i}/{len(classes)})')
+        print(f'Processando {classe} ({i+1}/{len(classes)})')
         files = os.listdir(classe_folder)
         for name in files:
             imagem = imread(os.path.join(classe_folder, name))
 
-            imagem = imagem[714:(4624-614), 386:(3472-386)]
+            imagem = imagem[714:(4624-714), 386:(3472-386)]
 
             # im = resize(imagem, [4624*SCALE, 3472*SCALE])
             im = rescale(imagem, 0.75, channel_axis=2)
@@ -77,7 +77,7 @@ def process_images():
             os.remove(os.path.join(classe_folder, name))
             atual += 1
     print("Completado")
-    
+
 def main():
     rename_images()
     process_images()
