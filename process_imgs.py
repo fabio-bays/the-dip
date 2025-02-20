@@ -61,10 +61,10 @@ def process_images():
         for name in files:
             imagem = imread(os.path.join(classe_folder, name))
 
-            imagem = imagem[714:(4624-714), 386:(3472-386)]
+            imagem = imagem[812:(4624-812), 436:(3472-436)]
 
             # im = resize(imagem, [4624*SCALE, 3472*SCALE])
-            im = rescale(imagem, 0.75, channel_axis=2)
+            im = rescale(imagem, 0.5, channel_axis=2, anti_aliasing=True)
             im = ((im * 255).astype(np.uint8))
             # print(im.shape)
 
