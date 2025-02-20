@@ -11,7 +11,7 @@ SCALE = 0.6
 source = 'raw_images'
 dest = 'processed_images'
 
-classes = ['capacitor', 'potentiometer', 'led', 'diode', 'resistor', 'integrated_circuit', 'transistor', 'switches', 'inductors', 'jumpers']
+classes = ['capacitor', 'potentiometer', 'led', 'diode', 'resistor', 'integrated_circuit', 'transistor', 'switch', 'inductor', 'jumper']
 items = 5
 angulos = ['V1', 'V2']
 cores = ['B', 'W']

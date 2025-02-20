@@ -7,10 +7,10 @@
     ],
     "descricao":"Base de dados de imagens de alguns componentes eletrônicos.",
     "resolucao_imagens":{
-        "largura":"1000",
-        "altura":"1200"
+        "largura":"1300",
+        "altura":"1500"
     },
-    "num_classes":"5",
+    "num_classes":"10",
     "classes":[
         {
             "id":"0",
@@ -18,19 +18,39 @@
         },
         {
             "id":"1",
-            "nome":"led"
+            "nome":"potentiometer"
         },
         {
             "id":"2",
-            "nome":"resistor"
+            "nome":"led"
         },
         {
             "id":"3",
-            "nome":"seven_segments"
+            "nome":"diode"
         },
         {
             "id":"4",
+            "nome":"resistor"
+        },
+        {
+            "id":"5",
+            "nome":"integrated_circuit"
+        },
+        {
+            "id":"6",
             "nome":"transistor"
+        },
+        {
+            "id":"7",
+            "nome":"switch"
+        },
+        {
+            "id":"8",
+            "nome":"inductor"
+        },
+        {
+            "id":"9",
+            "nome":"jumper"
         }
     ]
 }
