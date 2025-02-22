@@ -1,0 +1,906 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>1217759</id>
+      <name>Bounding Boxes</name>
+      <size>200</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2025-02-20 22:02:12.834029+00:00</created>
+      <updated>2025-02-20 22:34:51.895985+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>199</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>2151531</id>
+          <start>0</start>
+          <stop>199</stop>
+          <url>https://app.cvat.ai/api/jobs/2149095</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>augusto13</username>
+        <email>augustobarth@alunos.utfpr.edu.br</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>capacitor</name>
+          <color>#b5614a</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>potentiometer</name>
+          <color>#2f6c7e</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>led</name>
+          <color>#fa2d87</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>diode</name>
+          <color>#f87e6a</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>resistor</name>
+          <color>#0976d7</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>integrated_circuit</name>
+          <color>#444acd</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>transistor</name>
+          <color>#6906f2</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>switch</name>
+          <color>#7cca1b</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>inductor</name>
+          <color>#7b63da</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>jumper</name>
+          <color>#e195c6</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2025-02-22 20:52:27.766778+00:00</dumped>
+  </meta>
+  <image id="0" name="processed_images/capacitor/00-01-V1-B.png" width="1300" height="1500">
+    <box label="capacitor" source="manual" occluded="0" xtl="436.50" ytl="526.80" xbr="951.10" ybr="1036.50" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="processed_images/capacitor/00-01-V1-W.png" width="1300" height="1500">
+    <box label="capacitor" source="manual" occluded="0" xtl="382.84" ytl="537.70" xbr="866.65" ybr="1030.50" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="processed_images/capacitor/00-01-V2-B.png" width="1300" height="1500">
+    <box label="capacitor" source="manual" occluded="0" xtl="74.90" ytl="259.60" xbr="1038.40" ybr="1373.90" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="processed_images/capacitor/00-01-V2-W.png" width="1300" height="1500">
+    <box label="capacitor" source="manual" occluded="0" xtl="368.54" ytl="232.90" xbr="1084.60" ybr="1388.45" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="processed_images/capacitor/00-02-V1-B.png" width="1300" height="1500">
+    <box label="capacitor" source="manual" occluded="0" xtl="298.04" ytl="480.60" xbr="805.30" ybr="932.00" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="processed_images/capacitor/00-02-V1-W.png" width="1300" height="1500">
+    <box label="capacitor" source="manual" occluded="0" xtl="441.20" ytl="422.30" xbr="851.40" ybr="939.32" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="processed_images/capacitor/00-02-V2-B.png" width="1300" height="1500">
+    <box label="capacitor" source="manual" occluded="0" xtl="494.60" ytl="476.90" xbr="836.90" ybr="760.90" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="processed_images/capacitor/00-02-V2-W.png" width="1300" height="1500">
+    <box label="capacitor" source="manual" occluded="0" xtl="477.70" ytl="706.40" xbr="795.70" ybr="970.97" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="processed_images/capacitor/00-03-V1-B.png" width="1300" height="1500">
+    <box label="capacitor" source="manual" occluded="0" xtl="453.30" ytl="412.72" xbr="985.00" ybr="1034.10" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="processed_images/capacitor/00-03-V1-W.png" width="1300" height="1500">
+    <box label="capacitor" source="manual" occluded="0" xtl="310.30" ytl="402.78" xbr="841.88" ybr="978.28" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="processed_images/capacitor/00-03-V2-B.png" width="1300" height="1500">
+    <box label="capacitor" source="manual" occluded="0" xtl="460.78" ytl="611.75" xbr="630.70" ybr="796.20" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="processed_images/capacitor/00-03-V2-W.png" width="1300" height="1500">
+    <box label="capacitor" source="manual" occluded="0" xtl="643.93" ytl="623.79" xbr="806.60" ybr="793.70" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="processed_images/capacitor/00-04-V1-B.png" width="1300" height="1500">
+    <box label="capacitor" source="manual" occluded="0" xtl="611.30" ytl="648.10" xbr="883.10" ybr="869.00" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="processed_images/capacitor/00-04-V1-W.png" width="1300" height="1500">
+    <box label="capacitor" source="manual" occluded="0" xtl="550.58" ytl="582.62" xbr="788.45" ybr="820.50" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="processed_images/capacitor/00-04-V2-B.png" width="1300" height="1500">
+    <box label="capacitor" source="manual" occluded="0" xtl="594.30" ytl="536.50" xbr="834.60" ybr="883.59" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="processed_images/capacitor/00-04-V2-W.png" width="1300" height="1500">
+    <box label="capacitor" source="manual" occluded="0" xtl="628.30" ytl="505.00" xbr="822.40" ybr="842.30" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="processed_images/capacitor/00-05-V1-B.png" width="1300" height="1500">
+    <box label="capacitor" source="manual" occluded="0" xtl="368.54" ytl="723.40" xbr="749.60" ybr="973.40" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="processed_images/capacitor/00-05-V1-W.png" width="1300" height="1500">
+    <box label="capacitor" source="manual" occluded="0" xtl="606.41" ytl="529.22" xbr="820.00" ybr="890.87" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="processed_images/capacitor/00-05-V2-B.png" width="1300" height="1500">
+    <box label="capacitor" source="manual" occluded="0" xtl="497.18" ytl="619.00" xbr="815.15" ybr="759.80" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="processed_images/capacitor/00-05-V2-W.png" width="1300" height="1500">
+    <box label="capacitor" source="manual" occluded="0" xtl="553.01" ytl="546.20" xbr="858.80" ybr="747.70" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="processed_images/diode/03-01-V1-B.png" width="1300" height="1500">
+    <box label="diode" source="manual" occluded="0" xtl="417.09" ytl="468.54" xbr="793.30" ybr="927.28" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="processed_images/diode/03-01-V1-W.png" width="1300" height="1500">
+    <box label="diode" source="manual" occluded="0" xtl="591.80" ytl="347.18" xbr="854.00" ybr="801.07" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="processed_images/diode/03-01-V2-B.png" width="1300" height="1500">
+    <box label="diode" source="manual" occluded="0" xtl="523.90" ytl="548.60" xbr="832.10" ybr="815.60" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="processed_images/diode/03-01-V2-W.png" width="1300" height="1500">
+    <box label="diode" source="manual" occluded="0" xtl="565.15" ytl="682.14" xbr="854.00" ybr="1009.80" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="processed_images/diode/03-02-V1-B.png" width="1300" height="1500">
+    <box label="diode" source="manual" occluded="0" xtl="608.90" ytl="470.97" xbr="858.80" ybr="1213.69" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="processed_images/diode/03-02-V1-W.png" width="1300" height="1500">
+    <box label="diode" source="manual" occluded="0" xtl="443.79" ytl="456.20" xbr="921.90" ybr="1060.78" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="processed_images/diode/03-02-V2-B.png" width="1300" height="1500">
+    <box label="diode" source="manual" occluded="0" xtl="589.40" ytl="475.80" xbr="839.40" ybr="677.30" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="processed_images/diode/03-02-V2-W.png" width="1300" height="1500">
+    <box label="diode" source="manual" occluded="0" xtl="557.80" ytl="538.93" xbr="739.90" ybr="788.90" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="processed_images/diode/03-03-V1-B.png" width="1300" height="1500">
+    <box label="diode" source="manual" occluded="0" xtl="513.90" ytl="429.71" xbr="999.60" ybr="939.40" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="processed_images/diode/03-03-V1-W.png" width="1300" height="1500">
+    <box label="diode" source="manual" occluded="0" xtl="373.20" ytl="570.20" xbr="919.50" ybr="801.07" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="processed_images/diode/03-03-V2-B.png" width="1300" height="1500">
+    <box label="diode" source="manual" occluded="0" xtl="392.80" ytl="507.10" xbr="691.40" ybr="842.30" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="processed_images/diode/03-03-V2-W.png" width="1300" height="1500">
+    <box label="diode" source="manual" occluded="0" xtl="579.70" ytl="667.60" xbr="824.90" ybr="1005.00" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="processed_images/diode/03-04-V1-B.png" width="1300" height="1500">
+    <box label="diode" source="manual" occluded="0" xtl="387.70" ytl="446.70" xbr="931.60" ybr="936.99" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="processed_images/diode/03-04-V1-W.png" width="1300" height="1500">
+    <box label="diode" source="manual" occluded="0" xtl="540.60" ytl="381.17" xbr="909.80" ybr="936.99" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="processed_images/diode/03-04-V2-B.png" width="1300" height="1500">
+    <box label="diode" source="manual" occluded="0" xtl="557.86" ytl="463.69" xbr="905.00" ybr="679.70" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="processed_images/diode/03-04-V2-W.png" width="1300" height="1500">
+    <box label="diode" source="manual" occluded="0" xtl="669.51" ytl="621.46" xbr="844.30" ybr="953.98" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="processed_images/diode/03-05-V1-B.png" width="1300" height="1500">
+    <box label="diode" source="manual" occluded="0" xtl="305.44" ytl="674.85" xbr="635.50" ybr="1055.90" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="processed_images/diode/03-05-V1-W.png" width="1300" height="1500">
+    <box label="diode" source="manual" occluded="0" xtl="579.70" ytl="558.35" xbr="822.40" ybr="895.70" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="processed_images/diode/03-05-V2-B.png" width="1300" height="1500">
+    <box label="diode" source="manual" occluded="0" xtl="533.60" ytl="534.10" xbr="776.30" ybr="762.20" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="processed_images/diode/03-05-V2-W.png" width="1300" height="1500">
+    <box label="diode" source="manual" occluded="0" xtl="599.10" ytl="364.20" xbr="832.10" ybr="640.90" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="processed_images/inductor/08-01-V1-B.png" width="1300" height="1500">
+    <box label="inductor" source="manual" occluded="0" xtl="441.36" ytl="548.60" xbr="880.70" ybr="1007.38" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="processed_images/inductor/08-01-V1-W.png" width="1300" height="1500">
+    <box label="inductor" source="manual" occluded="0" xtl="414.66" ytl="597.20" xbr="807.90" ybr="1051.10" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="processed_images/inductor/08-01-V2-B.png" width="1300" height="1500">
+    <box label="inductor" source="manual" occluded="0" xtl="594.03" ytl="645.73" xbr="824.80" ybr="847.18" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="processed_images/inductor/08-01-V2-W.png" width="1300" height="1500">
+    <box label="inductor" source="manual" occluded="0" xtl="516.36" ytl="626.31" xbr="744.76" ybr="827.77" z_order="0">
+    </box>
+  </image>
+  <image id="44" name="processed_images/inductor/08-02-V1-B.png" width="1300" height="1500">
+    <box label="inductor" source="manual" occluded="0" xtl="472.91" ytl="548.60" xbr="820.00" ybr="1051.07" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="processed_images/inductor/08-02-V1-W.png" width="1300" height="1500">
+    <box label="inductor" source="manual" occluded="0" xtl="463.20" ytl="587.48" xbr="798.20" ybr="1026.80" z_order="0">
+    </box>
+  </image>
+  <image id="46" name="processed_images/inductor/08-02-V2-B.png" width="1300" height="1500">
+    <box label="inductor" source="manual" occluded="0" xtl="528.74" ytl="587.48" xbr="730.19" ybr="835.05" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="processed_images/inductor/08-02-V2-W.png" width="1300" height="1500">
+    <box label="inductor" source="manual" occluded="0" xtl="579.71" ytl="672.43" xbr="798.16" ybr="813.20" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="processed_images/inductor/08-03-V1-B.png" width="1300" height="1500">
+    <box label="inductor" source="manual" occluded="0" xtl="434.08" ytl="636.02" xbr="810.29" ybr="1106.89" z_order="0">
+    </box>
+  </image>
+  <image id="49" name="processed_images/inductor/08-03-V1-W.png" width="1300" height="1500">
+    <box label="inductor" source="manual" occluded="0" xtl="640.39" ytl="606.89" xbr="890.40" ybr="1063.20" z_order="0">
+    </box>
+  </image>
+  <image id="50" name="processed_images/inductor/08-03-V2-B.png" width="1300" height="1500">
+    <box label="inductor" source="manual" occluded="0" xtl="632.86" ytl="597.18" xbr="858.80" ybr="801.10" z_order="0">
+    </box>
+  </image>
+  <image id="51" name="processed_images/inductor/08-03-V2-W.png" width="1300" height="1500">
+    <box label="inductor" source="manual" occluded="0" xtl="552.77" ytl="553.49" xbr="756.89" ybr="718.54" z_order="0">
+    </box>
+  </image>
+  <image id="52" name="processed_images/inductor/08-04-V1-B.png" width="1300" height="1500">
+    <box label="inductor" source="manual" occluded="0" xtl="482.40" ytl="592.33" xbr="866.10" ybr="1082.62" z_order="0">
+    </box>
+  </image>
+  <image id="53" name="processed_images/inductor/08-04-V1-W.png" width="1300" height="1500">
+    <box label="inductor" source="manual" occluded="0" xtl="499.37" ytl="521.90" xbr="868.60" ybr="992.81" z_order="0">
+    </box>
+  </image>
+  <image id="54" name="processed_images/inductor/08-04-V2-B.png" width="1300" height="1500">
+    <box label="inductor" source="manual" occluded="0" xtl="552.80" ytl="653.01" xbr="778.70" ybr="861.75" z_order="0">
+    </box>
+  </image>
+  <image id="55" name="processed_images/inductor/08-04-V2-W.png" width="1300" height="1500">
+    <box label="inductor" source="manual" occluded="0" xtl="472.70" ytl="655.44" xbr="674.40" ybr="869.03" z_order="0">
+    </box>
+  </image>
+  <image id="56" name="processed_images/inductor/08-05-V1-B.png" width="1300" height="1500">
+    <box label="inductor" source="manual" occluded="0" xtl="441.10" ytl="580.19" xbr="856.40" ybr="1031.60" z_order="0">
+    </box>
+  </image>
+  <image id="57" name="processed_images/inductor/08-05-V1-W.png" width="1300" height="1500">
+    <box label="inductor" source="manual" occluded="0" xtl="528.74" ytl="538.90" xbr="873.40" ybr="1002.52" z_order="0">
+    </box>
+  </image>
+  <image id="58" name="processed_images/inductor/08-05-V2-B.png" width="1300" height="1500">
+    <box label="inductor" source="manual" occluded="0" xtl="485.00" ytl="623.88" xbr="713.20" ybr="859.32" z_order="0">
+    </box>
+  </image>
+  <image id="59" name="processed_images/inductor/08-05-V2-W.png" width="1300" height="1500">
+    <box label="inductor" source="manual" occluded="0" xtl="504.50" ytl="572.90" xbr="727.80" ybr="737.96" z_order="0">
+    </box>
+  </image>
+  <image id="60" name="processed_images/integrated_circuit/05-01-V1-B.png" width="1300" height="1500">
+    <box label="integrated_circuit" source="manual" occluded="0" xtl="625.80" ytl="650.60" xbr="812.70" ybr="1022.00" z_order="0">
+    </box>
+  </image>
+  <image id="61" name="processed_images/integrated_circuit/05-01-V1-W.png" width="1300" height="1500">
+    <box label="integrated_circuit" source="manual" occluded="0" xtl="458.10" ytl="602.00" xbr="752.00" ybr="987.96" z_order="0">
+    </box>
+  </image>
+  <image id="62" name="processed_images/integrated_circuit/05-01-V2-B.png" width="1300" height="1500">
+    <box label="integrated_circuit" source="manual" occluded="0" xtl="489.66" ytl="699.13" xbr="892.80" ybr="1007.40" z_order="0">
+    </box>
+  </image>
+  <image id="63" name="processed_images/integrated_circuit/05-01-V2-W.png" width="1300" height="1500">
+    <box label="integrated_circuit" source="manual" occluded="0" xtl="416.84" ytl="689.42" xbr="771.50" ybr="1024.40" z_order="0">
+    </box>
+  </image>
+  <image id="64" name="processed_images/integrated_circuit/05-02-V1-B.png" width="1300" height="1500">
+    <box label="integrated_circuit" source="manual" occluded="0" xtl="543.30" ytl="764.66" xbr="773.88" ybr="1009.81" z_order="0">
+    </box>
+  </image>
+  <image id="65" name="processed_images/integrated_circuit/05-02-V1-W.png" width="1300" height="1500">
+    <box label="integrated_circuit" source="manual" occluded="0" xtl="449.13" ytl="757.38" xbr="684.60" ybr="980.68" z_order="0">
+    </box>
+  </image>
+  <image id="66" name="processed_images/integrated_circuit/05-02-V2-B.png" width="1300" height="1500">
+    <box label="integrated_circuit" source="manual" occluded="0" xtl="543.06" ytl="762.23" xbr="773.88" ybr="1000.10" z_order="0">
+    </box>
+  </image>
+  <image id="67" name="processed_images/integrated_circuit/05-02-V2-W.png" width="1300" height="1500">
+    <box label="integrated_circuit" source="manual" occluded="0" xtl="441.10" ytl="691.80" xbr="642.80" ybr="895.70" z_order="0">
+    </box>
+  </image>
+  <image id="68" name="processed_images/integrated_circuit/05-03-V1-B.png" width="1300" height="1500">
+    <box label="integrated_circuit" source="manual" occluded="0" xtl="455.70" ytl="534.08" xbr="866.10" ybr="1031.65" z_order="0">
+    </box>
+  </image>
+  <image id="69" name="processed_images/integrated_circuit/05-03-V1-W.png" width="1300" height="1500">
+    <box label="integrated_circuit" source="manual" occluded="0" xtl="489.70" ytl="582.60" xbr="868.50" ybr="1058.30" z_order="0">
+    </box>
+  </image>
+  <image id="70" name="processed_images/integrated_circuit/05-03-V2-B.png" width="1300" height="1500">
+    <box label="integrated_circuit" source="manual" occluded="0" xtl="496.94" ytl="432.14" xbr="897.67" ybr="929.71" z_order="0">
+    </box>
+  </image>
+  <image id="71" name="processed_images/integrated_circuit/05-03-V2-W.png" width="1300" height="1500">
+    <box label="integrated_circuit" source="manual" occluded="0" xtl="375.58" ytl="512.23" xbr="756.89" ybr="990.39" z_order="0">
+    </box>
+  </image>
+  <image id="72" name="processed_images/integrated_circuit/05-04-V1-B.png" width="1300" height="1500">
+    <box label="integrated_circuit" source="manual" occluded="0" xtl="462.96" ytl="572.91" xbr="873.40" ybr="1094.76" z_order="0">
+    </box>
+  </image>
+  <image id="73" name="processed_images/integrated_circuit/05-04-V1-W.png" width="1300" height="1500">
+    <box label="integrated_circuit" source="manual" occluded="0" xtl="409.56" ytl="582.62" xbr="800.58" ybr="1065.63" z_order="0">
+    </box>
+  </image>
+  <image id="74" name="processed_images/integrated_circuit/05-04-V2-B.png" width="1300" height="1500">
+    <box label="integrated_circuit" source="manual" occluded="0" xtl="445.97" ytl="487.96" xbr="832.10" ybr="1004.95" z_order="0">
+    </box>
+  </image>
+  <image id="75" name="processed_images/integrated_circuit/05-04-V2-W.png" width="1300" height="1500">
+    <box label="integrated_circuit" source="manual" occluded="0" xtl="411.99" ytl="466.12" xbr="827.28" ybr="941.84" z_order="0">
+    </box>
+  </image>
+  <image id="76" name="processed_images/integrated_circuit/05-05-V1-B.png" width="1300" height="1500">
+    <box label="integrated_circuit" source="manual" occluded="0" xtl="506.70" ytl="626.31" xbr="771.50" ybr="1029.22" z_order="0">
+    </box>
+  </image>
+  <image id="77" name="processed_images/integrated_circuit/05-05-V1-W.png" width="1300" height="1500">
+    <box label="integrated_circuit" source="manual" occluded="0" xtl="492.10" ytl="626.31" xbr="761.75" ybr="1014.66" z_order="0">
+    </box>
+  </image>
+  <image id="78" name="processed_images/integrated_circuit/05-05-V2-B.png" width="1300" height="1500">
+    <box label="integrated_circuit" source="manual" occluded="0" xtl="535.80" ytl="575.34" xbr="807.90" ybr="983.10" z_order="0">
+    </box>
+  </image>
+  <image id="79" name="processed_images/integrated_circuit/05-05-V2-W.png" width="1300" height="1500">
+    <box label="integrated_circuit" source="manual" occluded="0" xtl="550.30" ytl="631.17" xbr="771.50" ybr="1004.95" z_order="0">
+    </box>
+  </image>
+  <image id="80" name="processed_images/jumper/09-01-V1-B.png" width="1300" height="1500">
+    <box label="jumper" source="manual" occluded="0" xtl="205.90" ytl="446.70" xbr="1009.30" ybr="1051.10" z_order="0">
+    </box>
+  </image>
+  <image id="81" name="processed_images/jumper/09-01-V1-W.png" width="1300" height="1500">
+    <box label="jumper" source="manual" occluded="0" xtl="373.88" ytl="347.18" xbr="985.53" ybr="1143.30" z_order="0">
+    </box>
+  </image>
+  <image id="82" name="processed_images/jumper/09-01-V2-B.png" width="1300" height="1500">
+    <box label="jumper" source="manual" occluded="0" xtl="26.07" ytl="344.76" xbr="1125.80" ybr="1221.00" z_order="0">
+    </box>
+  </image>
+  <image id="83" name="processed_images/jumper/09-01-V2-W.png" width="1300" height="1500">
+    <box label="jumper" source="manual" occluded="0" xtl="252.00" ytl="233.11" xbr="992.30" ybr="1213.69" z_order="0">
+    </box>
+  </image>
+  <image id="84" name="processed_images/jumper/09-02-V1-B.png" width="1300" height="1500">
+    <box label="jumper" source="manual" occluded="0" xtl="390.40" ytl="335.05" xbr="761.70" ybr="1279.22" z_order="0">
+    </box>
+  </image>
+  <image id="85" name="processed_images/jumper/09-02-V1-W.png" width="1300" height="1500">
+    <box label="jumper" source="manual" occluded="0" xtl="366.10" ytl="296.21" xbr="815.14" ybr="1170.00" z_order="0">
+    </box>
+  </image>
+  <image id="86" name="processed_images/jumper/09-02-V2-B.png" width="1300" height="1500">
+    <box label="jumper" source="manual" occluded="0" xtl="273.88" ytl="405.40" xbr="1053.00" ybr="1131.17" z_order="0">
+    </box>
+  </image>
+  <image id="87" name="processed_images/jumper/09-02-V2-W.png" width="1300" height="1500">
+    <box label="jumper" source="manual" occluded="0" xtl="341.84" ytl="422.43" xbr="948.64" ybr="1203.98" z_order="0">
+    </box>
+  </image>
+  <image id="88" name="processed_images/jumper/09-03-V1-B.png" width="1300" height="1500">
+    <box label="jumper" source="manual" occluded="0" xtl="210.78" ytl="342.33" xbr="1087.00" ybr="1230.68" z_order="0">
+    </box>
+  </image>
+  <image id="89" name="processed_images/jumper/09-03-V1-W.png" width="1300" height="1500">
+    <box label="jumper" source="manual" occluded="0" xtl="424.37" ytl="364.17" xbr="936.50" ybr="1388.45" z_order="0">
+    </box>
+  </image>
+  <image id="90" name="processed_images/jumper/09-03-V2-B.png" width="1300" height="1500">
+    <box label="jumper" source="manual" occluded="0" xtl="276.31" ytl="388.45" xbr="1227.77" ybr="1259.81" z_order="0">
+    </box>
+  </image>
+  <image id="91" name="processed_images/jumper/09-03-V2-W.png" width="1300" height="1500">
+    <box label="jumper" source="manual" occluded="0" xtl="130.70" ytl="201.55" xbr="1298.15" ybr="1259.81" z_order="0">
+    </box>
+  </image>
+  <image id="92" name="processed_images/jumper/09-04-V1-B.png" width="1300" height="1500">
+    <box label="jumper" source="manual" occluded="0" xtl="303.01" ytl="563.20" xbr="904.95" ybr="1102.00" z_order="0">
+    </box>
+  </image>
+  <image id="93" name="processed_images/jumper/09-04-V1-W.png" width="1300" height="1500">
+    <box label="jumper" source="manual" occluded="0" xtl="211.30" ytl="505.00" xbr="801.07" ybr="1019.51" z_order="0">
+    </box>
+  </image>
+  <image id="94" name="processed_images/jumper/09-04-V2-B.png" width="1300" height="1500">
+    <box label="jumper" source="manual" occluded="0" xtl="349.13" ytl="446.70" xbr="965.60" ybr="1276.80" z_order="0">
+    </box>
+  </image>
+  <image id="95" name="processed_images/jumper/09-04-V2-W.png" width="1300" height="1500">
+    <box label="jumper" source="manual" occluded="0" xtl="273.88" ytl="417.57" xbr="948.64" ybr="1087.48" z_order="0">
+    </box>
+  </image>
+  <image id="96" name="processed_images/jumper/09-05-V1-B.png" width="1300" height="1500">
+    <box label="jumper" source="manual" occluded="0" xtl="526.30" ytl="325.34" xbr="921.90" ybr="1274.37" z_order="0">
+    </box>
+  </image>
+  <image id="97" name="processed_images/jumper/09-05-V1-W.png" width="1300" height="1500">
+    <box label="jumper" source="manual" occluded="0" xtl="322.43" ytl="604.47" xbr="1074.85" ybr="1228.25" z_order="0">
+    </box>
+  </image>
+  <image id="98" name="processed_images/jumper/09-05-V2-B.png" width="1300" height="1500">
+    <box label="jumper" source="manual" occluded="0" xtl="307.86" ytl="463.69" xbr="987.48" ybr="1063.20" z_order="0">
+    </box>
+  </image>
+  <image id="99" name="processed_images/jumper/09-05-V2-W.png" width="1300" height="1500">
+    <box label="jumper" source="manual" occluded="0" xtl="286.02" ytl="538.93" xbr="1004.50" ybr="1174.85" z_order="0">
+    </box>
+  </image>
+  <image id="100" name="processed_images/led/02-01-V1-B.png" width="1300" height="1500">
+    <box label="led" source="manual" occluded="0" xtl="449.39" ytl="490.94" xbr="789.32" ybr="992.73" z_order="0">
+    </box>
+  </image>
+  <image id="101" name="processed_images/led/02-01-V1-W.png" width="1300" height="1500">
+    <box label="led" source="manual" occluded="0" xtl="537.52" ytl="521.51" xbr="924.21" ybr="868.63" z_order="0">
+    </box>
+  </image>
+  <image id="102" name="processed_images/led/02-01-V2-B.png" width="1300" height="1500">
+    <box label="led" source="manual" occluded="0" xtl="650.83" ytl="472.95" xbr="978.17" ybr="811.08" z_order="0">
+    </box>
+  </image>
+  <image id="103" name="processed_images/led/02-01-V2-W.png" width="1300" height="1500">
+    <box label="led" source="manual" occluded="0" xtl="562.70" ytl="422.59" xbr="857.66" ybr="807.48" z_order="0">
+    </box>
+  </image>
+  <image id="104" name="processed_images/led/02-02-V1-B.png" width="1300" height="1500">
+    <box label="led" source="manual" occluded="0" xtl="395.43" ytl="523.31" xbr="882.84" ybr="1017.91" z_order="0">
+    </box>
+  </image>
+  <image id="105" name="processed_images/led/02-02-V1-W.png" width="1300" height="1500">
+    <box label="led" source="manual" occluded="0" xtl="422.41" ytl="548.50" xbr="888.24" ybr="998.13" z_order="0">
+    </box>
+  </image>
+  <image id="106" name="processed_images/led/02-02-V2-B.png" width="1300" height="1500">
+    <box label="led" source="manual" occluded="0" xtl="500.29" ytl="349.21" xbr="784.46" ybr="877.99" z_order="0">
+    </box>
+  </image>
+  <image id="107" name="processed_images/led/02-02-V2-W.png" width="1300" height="1500">
+    <box label="led" source="manual" occluded="0" xtl="597.41" ytl="464.32" xbr="800.65" ybr="998.49" z_order="0">
+    </box>
+  </image>
+  <image id="108" name="processed_images/led/02-03-V1-B.png" width="1300" height="1500">
+    <box label="led" source="manual" occluded="0" xtl="418.81" ytl="561.10" xbr="863.06" ybr="845.25" z_order="0">
+    </box>
+  </image>
+  <image id="109" name="processed_images/led/02-03-V1-W.png" width="1300" height="1500">
+    <box label="led" source="manual" occluded="0" xtl="449.93" ytl="500.29" xbr="833.02" ybr="879.78" z_order="0">
+    </box>
+  </image>
+  <image id="110" name="processed_images/led/02-03-V2-B.png" width="1300" height="1500">
+    <box label="led" source="manual" occluded="0" xtl="555.50" ytl="642.01" xbr="886.44" ybr="994.53" z_order="0">
+    </box>
+  </image>
+  <image id="111" name="processed_images/led/02-03-V2-W.png" width="1300" height="1500">
+    <box label="led" source="manual" occluded="0" xtl="482.30" ytl="534.46" xbr="829.42" ybr="877.99" z_order="0">
+    </box>
+  </image>
+  <image id="112" name="processed_images/led/02-04-V1-B.png" width="1300" height="1500">
+    <box label="led" source="manual" occluded="0" xtl="463.78" ytl="519.71" xbr="924.21" ybr="910.00" z_order="0">
+    </box>
+  </image>
+  <image id="113" name="processed_images/led/02-04-V1-W.png" width="1300" height="1500">
+    <box label="led" source="manual" occluded="0" xtl="422.41" ytl="516.12" xbr="864.86" ybr="906.40" z_order="0">
+    </box>
+  </image>
+  <image id="114" name="processed_images/led/02-04-V2-B.png" width="1300" height="1500">
+    <box label="led" source="manual" occluded="0" xtl="413.42" ytl="485.54" xbr="792.91" ybr="958.56" z_order="0">
+    </box>
+  </image>
+  <image id="115" name="processed_images/led/02-04-V2-W.png" width="1300" height="1500">
+    <box label="led" source="manual" occluded="0" xtl="402.63" ytl="690.58" xbr="866.65" ybr="918.99" z_order="0">
+    </box>
+  </image>
+  <image id="116" name="processed_images/led/02-05-V1-B.png" width="1300" height="1500">
+    <box label="led" source="manual" occluded="0" xtl="404.42" ytl="483.74" xbr="807.30" ybr="857.80" z_order="0">
+    </box>
+  </image>
+  <image id="117" name="processed_images/led/02-05-V1-W.png" width="1300" height="1500">
+    <box label="led" source="manual" occluded="0" xtl="417.01" ytl="499.93" xbr="771.33" ybr="848.85" z_order="0">
+    </box>
+  </image>
+  <image id="118" name="processed_images/led/02-05-V2-B.png" width="1300" height="1500">
+    <box label="led" source="manual" occluded="0" xtl="494.35" ytl="338.06" xbr="771.33" ybr="769.71" z_order="0">
+    </box>
+  </image>
+  <image id="119" name="processed_images/led/02-05-V2-W.png" width="1300" height="1500">
+    <box label="led" source="manual" occluded="0" xtl="591.47" ytl="471.15" xbr="857.66" ybr="866.83" z_order="0">
+    </box>
+  </image>
+  <image id="120" name="processed_images/potentiometer/01-01-V1-B.png" width="1300" height="1500">
+    <box label="potentiometer" source="manual" occluded="0" xtl="463.80" ytl="508.92" xbr="983.56" ybr="899.20" z_order="0">
+    </box>
+  </image>
+  <image id="121" name="processed_images/potentiometer/01-01-V1-W.png" width="1300" height="1500">
+    <box label="potentiometer" source="manual" occluded="0" xtl="355.86" ytl="505.32" xbr="837.88" ybr="834.46" z_order="0">
+    </box>
+  </image>
+  <image id="122" name="processed_images/potentiometer/01-01-V2-B.png" width="1300" height="1500">
+    <box label="potentiometer" source="manual" occluded="0" xtl="399.03" ytl="431.58" xbr="940.40" ybr="1007.12" z_order="0">
+    </box>
+  </image>
+  <image id="123" name="processed_images/potentiometer/01-01-V2-W.png" width="1300" height="1500">
+    <box label="potentiometer" source="manual" occluded="0" xtl="388.24" ytl="499.93" xbr="890.04" ybr="1039.50" z_order="0">
+    </box>
+  </image>
+  <image id="124" name="processed_images/potentiometer/01-02-V1-B.png" width="1300" height="1500">
+    <box label="potentiometer" source="manual" occluded="0" xtl="485.36" ytl="622.23" xbr="699.39" ybr="829.06" z_order="0">
+    </box>
+  </image>
+  <image id="125" name="processed_images/potentiometer/01-02-V1-W.png" width="1300" height="1500">
+    <box label="potentiometer" source="manual" occluded="0" xtl="494.35" ytl="625.83" xbr="747.95" ybr="874.03" z_order="0">
+    </box>
+  </image>
+  <image id="126" name="processed_images/potentiometer/01-02-V2-B.png" width="1300" height="1500">
+    <box label="potentiometer" source="manual" occluded="0" xtl="489.50" ytl="604.60" xbr="755.68" ybr="861.80" z_order="0">
+    </box>
+  </image>
+  <image id="127" name="processed_images/potentiometer/01-02-V2-W.png" width="1300" height="1500">
+    <box label="potentiometer" source="manual" occluded="0" xtl="528.53" ytl="654.60" xbr="769.53" ybr="902.81" z_order="0">
+    </box>
+  </image>
+  <image id="128" name="processed_images/potentiometer/01-03-V1-B.png" width="1300" height="1500">
+    <box label="potentiometer" source="manual" occluded="0" xtl="519.53" ytl="571.87" xbr="866.65" ybr="809.28" z_order="0">
+    </box>
+  </image>
+  <image id="129" name="processed_images/potentiometer/01-03-V1-W.png" width="1300" height="1500">
+    <box label="potentiometer" source="manual" occluded="0" xtl="442.19" ytl="591.65" xbr="773.13" ybr="787.70" z_order="0">
+    </box>
+  </image>
+  <image id="130" name="processed_images/potentiometer/01-03-V2-B.png" width="1300" height="1500">
+    <box label="potentiometer" source="manual" occluded="0" xtl="492.55" ytl="472.95" xbr="834.28" ybr="672.60" z_order="0">
+    </box>
+  </image>
+  <image id="131" name="processed_images/potentiometer/01-03-V2-W.png" width="1300" height="1500">
+    <box label="potentiometer" source="manual" occluded="0" xtl="533.92" ytl="640.20" xbr="859.46" ybr="834.46" z_order="0">
+    </box>
+  </image>
+  <image id="132" name="processed_images/potentiometer/01-04-V1-B.png" width="1300" height="1500">
+    <box label="potentiometer" source="manual" occluded="0" xtl="550.11" ytl="397.40" xbr="886.44" ybr="892.02" z_order="0">
+    </box>
+  </image>
+  <image id="133" name="processed_images/potentiometer/01-04-V1-W.png" width="1300" height="1500">
+    <box label="potentiometer" source="manual" occluded="0" xtl="417.00" ytl="472.95" xbr="890.04" ybr="847.05" z_order="0">
+    </box>
+  </image>
+  <image id="134" name="processed_images/potentiometer/01-04-V2-B.png" width="1300" height="1500">
+    <box label="potentiometer" source="manual" occluded="0" xtl="397.23" ytl="507.12" xbr="976.37" ybr="987.34" z_order="0">
+    </box>
+  </image>
+  <image id="135" name="processed_images/potentiometer/01-04-V2-W.png" width="1300" height="1500">
+    <box label="potentiometer" source="manual" occluded="0" xtl="381.58" ytl="547.05" xbr="930.14" ybr="1005.68" z_order="0">
+    </box>
+  </image>
+  <image id="136" name="processed_images/potentiometer/01-05-V1-B.png" width="1300" height="1500">
+    <box label="potentiometer" source="manual" occluded="0" xtl="274.93" ytl="258.92" xbr="1120.25" ybr="1125.83" z_order="0">
+    </box>
+  </image>
+  <image id="137" name="processed_images/potentiometer/01-05-V1-W.png" width="1300" height="1500">
+    <box label="potentiometer" source="manual" occluded="0" xtl="141.83" ytl="260.72" xbr="978.17" ybr="1014.32" z_order="0">
+    </box>
+  </image>
+  <image id="138" name="processed_images/potentiometer/01-05-V2-B.png" width="1300" height="1500">
+    <box label="potentiometer" source="manual" occluded="0" xtl="111.26" ytl="219.35" xbr="1057.30" ybr="1401.01" z_order="0">
+    </box>
+  </image>
+  <image id="139" name="processed_images/potentiometer/01-05-V2-W.png" width="1300" height="1500">
+    <box label="potentiometer" source="manual" occluded="0" xtl="246.15" ytl="201.37" xbr="1057.30" ybr="1332.66" z_order="0">
+    </box>
+  </image>
+  <image id="140" name="processed_images/resistor/04-01-V1-B.png" width="1300" height="1500">
+    <box label="resistor" source="manual" occluded="0" xtl="487.16" ytl="535.90" xbr="827.09" ybr="839.86" z_order="0">
+    </box>
+  </image>
+  <image id="141" name="processed_images/resistor/04-01-V1-W.png" width="1300" height="1500">
+    <box label="resistor" source="manual" occluded="0" xtl="514.14" ytl="624.03" xbr="796.51" ybr="911.80" z_order="0">
+    </box>
+  </image>
+  <image id="142" name="processed_images/resistor/04-01-V2-B.png" width="1300" height="1500">
+    <box label="resistor" source="manual" occluded="0" xtl="649.03" ytl="37.70" xbr="1041.12" ybr="1411.80" z_order="0">
+    </box>
+  </image>
+  <image id="143" name="processed_images/resistor/04-01-V2-W.png" width="1300" height="1500">
+    <box label="resistor" source="manual" occluded="0" xtl="523.13" ytl="154.60" xbr="891.83" ybr="1456.76" z_order="0">
+    </box>
+  </image>
+  <image id="144" name="processed_images/resistor/04-02-V1-B.png" width="1300" height="1500">
+    <box label="resistor" source="manual" occluded="0" xtl="461.98" ytl="467.55" xbr="828.89" ybr="971.15" z_order="0">
+    </box>
+  </image>
+  <image id="145" name="processed_images/resistor/04-02-V1-W.png" width="1300" height="1500">
+    <box label="resistor" source="manual" occluded="0" xtl="454.78" ytl="392.01" xbr="902.63" ybr="926.19" z_order="0">
+    </box>
+  </image>
+  <image id="146" name="processed_images/resistor/04-02-V2-B.png" width="1300" height="1500">
+    <box label="resistor" source="manual" occluded="0" xtl="503.35" ytl="661.80" xbr="904.42" ybr="1113.24" z_order="0">
+    </box>
+  </image>
+  <image id="147" name="processed_images/resistor/04-02-V2-W.png" width="1300" height="1500">
+    <box label="resistor" source="manual" occluded="0" xtl="551.91" ytl="697.77" xbr="1055.50" ybr="1107.84" z_order="0">
+    </box>
+  </image>
+  <image id="148" name="processed_images/resistor/04-03-V1-B.png" width="1300" height="1500">
+    <box label="resistor" source="manual" occluded="0" xtl="478.17" ytl="305.68" xbr="726.37" ybr="811.08" z_order="0">
+    </box>
+  </image>
+  <image id="149" name="processed_images/resistor/04-03-V1-W.png" width="1300" height="1500">
+    <box label="resistor" source="manual" occluded="0" xtl="510.54" ytl="636.62" xbr="1050.11" ybr="830.86" z_order="0">
+    </box>
+  </image>
+  <image id="150" name="processed_images/resistor/04-03-V2-B.png" width="1300" height="1500">
+    <box label="resistor" source="manual" occluded="0" xtl="330.68" ytl="122.23" xbr="1111.26" ybr="985.54" z_order="0">
+    </box>
+  </image>
+  <image id="151" name="processed_images/resistor/04-03-V2-W.png" width="1300" height="1500">
+    <box label="resistor" source="manual" occluded="0" xtl="415.22" ytl="122.23" xbr="825.29" ybr="1115.00" z_order="0">
+    </box>
+  </image>
+  <image id="152" name="processed_images/resistor/04-04-V1-B.png" width="1300" height="1500">
+    <box label="resistor" source="manual" occluded="0" xtl="532.12" ytl="534.10" xbr="773.13" ybr="742.73" z_order="0">
+    </box>
+  </image>
+  <image id="153" name="processed_images/resistor/04-04-V1-W.png" width="1300" height="1500">
+    <box label="resistor" source="manual" occluded="0" xtl="537.52" ytl="688.78" xbr="731.76" ybr="911.80" z_order="0">
+    </box>
+  </image>
+  <image id="154" name="processed_images/resistor/04-04-V2-B.png" width="1300" height="1500">
+    <box label="resistor" source="manual" occluded="0" xtl="476.37" ytl="237.34" xbr="852.27" ybr="1242.73" z_order="0">
+    </box>
+  </image>
+  <image id="155" name="processed_images/resistor/04-04-V2-W.png" width="1300" height="1500">
+    <box label="resistor" source="manual" occluded="0" xtl="544.71" ytl="480.14" xbr="886.44" ybr="1442.37" z_order="0">
+    </box>
+  </image>
+  <image id="156" name="processed_images/resistor/04-05-V1-B.png" width="1300" height="1500">
+    <box label="resistor" source="manual" occluded="0" xtl="517.73" ytl="888.42" xbr="708.38" ybr="1152.81" z_order="0">
+    </box>
+  </image>
+  <image id="157" name="processed_images/resistor/04-05-V1-W.png" width="1300" height="1500">
+    <box label="resistor" source="manual" occluded="0" xtl="659.82" ytl="629.42" xbr="929.60" ybr="830.86" z_order="0">
+    </box>
+  </image>
+  <image id="158" name="processed_images/resistor/04-05-V2-B.png" width="1300" height="1500">
+    <box label="resistor" source="manual" occluded="0" xtl="715.58" ytl="454.96" xbr="958.38" ybr="960.36" z_order="0">
+    </box>
+  </image>
+  <image id="159" name="processed_images/resistor/04-05-V2-W.png" width="1300" height="1500">
+    <box label="resistor" source="manual" occluded="0" xtl="542.91" ytl="478.35" xbr="888.24" ybr="958.56" z_order="0">
+    </box>
+  </image>
+  <image id="160" name="processed_images/switch/07-01-V1-B.png" width="1300" height="1500">
+    <box label="switch" source="manual" occluded="0" xtl="386.44" ytl="588.06" xbr="821.69" ybr="1044.89" z_order="0">
+    </box>
+  </image>
+  <image id="161" name="processed_images/switch/07-01-V1-W.png" width="1300" height="1500">
+    <box label="switch" source="manual" occluded="0" xtl="418.81" ytl="634.82" xbr="848.67" ybr="1044.89" z_order="0">
+    </box>
+  </image>
+  <image id="162" name="processed_images/switch/07-01-V2-B.png" width="1300" height="1500">
+    <box label="switch" source="manual" occluded="0" xtl="415.22" ytl="568.27" xbr="846.87" ybr="963.96" z_order="0">
+    </box>
+  </image>
+  <image id="163" name="processed_images/switch/07-01-V2-W.png" width="1300" height="1500">
+    <box label="switch" source="manual" occluded="0" xtl="478.17" ytl="642.01" xbr="886.44" ybr="1010.72" z_order="0">
+    </box>
+  </image>
+  <image id="164" name="processed_images/switch/07-02-V1-B.png" width="1300" height="1500">
+    <box label="switch" source="manual" occluded="0" xtl="541.12" ytl="642.01" xbr="850.47" ybr="944.17" z_order="0">
+    </box>
+  </image>
+  <image id="165" name="processed_images/switch/07-02-V1-W.png" width="1300" height="1500">
+    <box label="switch" source="manual" occluded="0" xtl="564.50" ytl="676.19" xbr="846.87" ybr="940.58" z_order="0">
+    </box>
+  </image>
+  <image id="166" name="processed_images/switch/07-02-V2-B.png" width="1300" height="1500">
+    <box label="switch" source="manual" occluded="0" xtl="443.99" ytl="665.40" xbr="724.57" ybr="949.57" z_order="0">
+    </box>
+  </image>
+  <image id="167" name="processed_images/switch/07-02-V2-W.png" width="1300" height="1500">
+    <box label="switch" source="manual" occluded="0" xtl="488.96" ytl="695.97" xbr="753.35" ybr="954.96" z_order="0">
+    </box>
+  </image>
+  <image id="168" name="processed_images/switch/07-03-V1-B.png" width="1300" height="1500">
+    <box label="switch" source="manual" occluded="0" xtl="404.42" ytl="526.91" xbr="969.17" ybr="1107.84" z_order="0">
+    </box>
+  </image>
+  <image id="169" name="processed_images/switch/07-03-V1-W.png" width="1300" height="1500">
+    <box label="switch" source="manual" occluded="0" xtl="435.00" ytl="496.33" xbr="908.02" ybr="1095.25" z_order="0">
+    </box>
+  </image>
+  <image id="170" name="processed_images/switch/07-03-V2-B.png" width="1300" height="1500">
+    <box label="switch" source="manual" occluded="0" xtl="360.00" ytl="493.09" xbr="895.97" ybr="1039.86" z_order="0">
+    </box>
+  </image>
+  <image id="171" name="processed_images/switch/07-03-V2-W.png" width="1300" height="1500">
+    <box label="switch" source="manual" occluded="0" xtl="399.03" ytl="532.30" xbr="920.61" ybr="1048.49" z_order="0">
+    </box>
+  </image>
+  <image id="172" name="processed_images/switch/07-04-V1-B.png" width="1300" height="1500">
+    <box label="switch" source="manual" occluded="0" xtl="541.12" ytl="640.22" xbr="841.47" ybr="951.37" z_order="0">
+    </box>
+  </image>
+  <image id="173" name="processed_images/switch/07-04-V1-W.png" width="1300" height="1500">
+    <box label="switch" source="manual" occluded="0" xtl="501.55" ytl="616.83" xbr="789.32" ybr="895.60" z_order="0">
+    </box>
+  </image>
+  <image id="174" name="processed_images/switch/07-04-V2-B.png" width="1300" height="1500">
+    <box label="switch" source="manual" occluded="0" xtl="517.73" ytl="726.55" xbr="794.71" ybr="985.54" z_order="0">
+    </box>
+  </image>
+  <image id="175" name="processed_images/switch/07-04-V2-W.png" width="1300" height="1500">
+    <box label="switch" source="manual" occluded="0" xtl="587.88" ytl="674.39" xbr="839.68" ybr="911.80" z_order="0">
+    </box>
+  </image>
+  <image id="176" name="processed_images/switch/07-05-V1-B.png" width="1300" height="1500">
+    <box label="switch" source="manual" occluded="0" xtl="460.18" ytl="561.08" xbr="866.65" ybr="1019.71" z_order="0">
+    </box>
+  </image>
+  <image id="177" name="processed_images/switch/07-05-V1-W.png" width="1300" height="1500">
+    <box label="switch" source="manual" occluded="0" xtl="461.98" ytl="631.22" xbr="884.64" ybr="1046.69" z_order="0">
+    </box>
+  </image>
+  <image id="178" name="processed_images/switch/07-05-V2-B.png" width="1300" height="1500">
+    <box label="switch" source="manual" occluded="0" xtl="458.38" ytl="609.64" xbr="857.66" ybr="1034.10" z_order="0">
+    </box>
+  </image>
+  <image id="179" name="processed_images/switch/07-05-V2-W.png" width="1300" height="1500">
+    <box label="switch" source="manual" occluded="0" xtl="501.55" ytl="645.61" xbr="915.22" ybr="994.53" z_order="0">
+    </box>
+  </image>
+  <image id="180" name="processed_images/transistor/06-01-V1-B.png" width="1300" height="1500">
+    <box label="transistor" source="manual" occluded="0" xtl="515.94" ytl="719.35" xbr="769.53" ybr="1079.10" z_order="0">
+    </box>
+  </image>
+  <image id="181" name="processed_images/transistor/06-01-V1-W.png" width="1300" height="1500">
+    <box label="transistor" source="manual" occluded="0" xtl="506.94" ytl="589.86" xbr="810.90" ybr="874.03" z_order="0">
+    </box>
+  </image>
+  <image id="182" name="processed_images/transistor/06-01-V2-B.png" width="1300" height="1500">
+    <box label="transistor" source="manual" occluded="0" xtl="461.98" ytl="638.42" xbr="780.32" ybr="922.59" z_order="0">
+    </box>
+  </image>
+  <image id="183" name="processed_images/transistor/06-01-V2-W.png" width="1300" height="1500">
+    <box label="transistor" source="manual" occluded="0" xtl="523.13" ytl="731.94" xbr="839.68" ybr="998.13" z_order="0">
+    </box>
+  </image>
+  <image id="184" name="processed_images/transistor/06-02-V1-B.png" width="1300" height="1500">
+    <box label="transistor" source="manual" occluded="0" xtl="350.47" ytl="481.94" xbr="886.44" ybr="1168.99" z_order="0">
+    </box>
+  </image>
+  <image id="185" name="processed_images/transistor/06-02-V1-W.png" width="1300" height="1500">
+    <box label="transistor" source="manual" occluded="0" xtl="352.27" ytl="514.32" xbr="879.24" ybr="1170.79" z_order="0">
+    </box>
+  </image>
+  <image id="186" name="processed_images/transistor/06-02-V2-B.png" width="1300" height="1500">
+    <box label="transistor" source="manual" occluded="0" xtl="352.27" ytl="377.63" xbr="900.83" ybr="1077.27" z_order="0">
+    </box>
+  </image>
+  <image id="187" name="processed_images/transistor/06-02-V2-W.png" width="1300" height="1500">
+    <box label="transistor" source="manual" occluded="0" xtl="447.59" ytl="471.15" xbr="832.48" ybr="1134.82" z_order="0">
+    </box>
+  </image>
+  <image id="188" name="processed_images/transistor/06-03-V1-B.png" width="1300" height="1500">
+    <box label="transistor" source="manual" occluded="0" xtl="440.40" ytl="606.04" xbr="816.30" ybr="1145.61" z_order="0">
+    </box>
+  </image>
+  <image id="189" name="processed_images/transistor/06-03-V1-W.png" width="1300" height="1500">
+    <box label="transistor" source="manual" occluded="0" xtl="469.17" ytl="564.68" xbr="800.11" ybr="1088.06" z_order="0">
+    </box>
+  </image>
+  <image id="190" name="processed_images/transistor/06-03-V2-B.png" width="1300" height="1500">
+    <box label="transistor" source="manual" occluded="0" xtl="476.37" ytl="568.27" xbr="794.71" ybr="1154.60" z_order="0">
+    </box>
+  </image>
+  <image id="191" name="processed_images/transistor/06-03-V2-W.png" width="1300" height="1500">
+    <box label="transistor" source="manual" occluded="0" xtl="499.70" ytl="489.14" xbr="787.52" ybr="1010.72" z_order="0">
+    </box>
+  </image>
+  <image id="192" name="processed_images/transistor/06-04-V1-B.png" width="1300" height="1500">
+    <box label="transistor" source="manual" occluded="0" xtl="480.00" ytl="564.68" xbr="783.92" ybr="1068.30" z_order="0">
+    </box>
+  </image>
+  <image id="193" name="processed_images/transistor/06-04-V1-W.png" width="1300" height="1500">
+    <box label="transistor" source="manual" occluded="0" xtl="496.15" ytl="517.91" xbr="807.30" ybr="1001.73" z_order="0">
+    </box>
+  </image>
+  <image id="194" name="processed_images/transistor/06-04-V2-B.png" width="1300" height="1500">
+    <box label="transistor" source="manual" occluded="0" xtl="521.33" ytl="552.10" xbr="805.50" ybr="1075.47" z_order="0">
+    </box>
+  </image>
+  <image id="195" name="processed_images/transistor/06-04-V2-W.png" width="1300" height="1500">
+    <box label="transistor" source="manual" occluded="0" xtl="506.94" ytl="519.71" xbr="724.57" ybr="1005.32" z_order="0">
+    </box>
+  </image>
+  <image id="196" name="processed_images/transistor/06-05-V1-B.png" width="1300" height="1500">
+    <box label="transistor" source="manual" occluded="0" xtl="512.34" ytl="568.27" xbr="830.68" ybr="1107.84" z_order="0">
+    </box>
+  </image>
+  <image id="197" name="processed_images/transistor/06-05-V1-W.png" width="1300" height="1500">
+    <box label="transistor" source="manual" occluded="0" xtl="517.73" ytl="544.89" xbr="837.88" ybr="1041.30" z_order="0">
+    </box>
+  </image>
+  <image id="198" name="processed_images/transistor/06-05-V2-B.png" width="1300" height="1500">
+    <box label="transistor" source="manual" occluded="0" xtl="463.78" ytl="496.33" xbr="782.12" ybr="1061.08" z_order="0">
+    </box>
+  </image>
+  <image id="199" name="processed_images/transistor/06-05-V2-W.png" width="1300" height="1500">
+    <box label="transistor" source="manual" occluded="0" xtl="470.97" ytl="534.10" xbr="805.50" ybr="1050.29" z_order="0">
+    </box>
+  </image>
+</annotations>
