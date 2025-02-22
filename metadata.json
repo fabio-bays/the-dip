@@ -52,5 +52,14 @@
             "id":"9",
             "nome":"jumper"
         }
-    ]
+    ],
+    "Especificacoes camera":{
+        "Modelo":"23013PC75G",
+        "Velocidade ISO":"2000",
+        "Distancia focal":"5mm",
+        "Abertura maxima":"1.67",
+        "Brilho":"-3.71",
+        "Tempo de exposicao":"1/14s",
+        "Escala de numero F":"f/1.8"
+    }
 }
